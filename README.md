@@ -1,3 +1,29 @@
+## navigation_msgs (crystal) - 2.0.0-0
+
+The packages in the `navigation_msgs` repository were released into the `crystal` distro by running `/Users/william/.pyenv/versions/2.7.15/bin/bloom-release -r crystal -t crystal navigation_msgs` on `Tue, 04 Dec 2018 22:04:34 -0000`
+
+The `map_msgs` package was released.
+
+These packages were explicitly ignored:
+- `move_base_msgs`
+
+Version of package(s) in repository `navigation_msgs`:
+
+- upstream repository: https://github.com/ros-planning/navigation_msgs
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.0.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.9`
+- catkin_pkg version: `0.4.9`
+- rosdep version: `0.13.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## navigation_msgs (bouncy) - 2.0.0-1
 
 The packages in the `navigation_msgs` repository were released into the `bouncy` distro by running `/usr/bin/bloom-release navigation_msgs -r bouncy --override-release-repository-push-url git@github.com:ros2-gbp/navigation_msgs-release` on `Fri, 29 Jun 2018 03:20:13 -0000`
