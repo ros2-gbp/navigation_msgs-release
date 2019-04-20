@@ -1,3 +1,29 @@
+## navigation_msgs (dashing) - 2.0.1-0
+
+The packages in the `navigation_msgs` repository were released into the `dashing` distro by running `/usr/local/bin/bloom-release -r dashing -t dashing navigation_msgs` on `Sat, 20 Apr 2019 00:45:23 -0000`
+
+The `map_msgs` package was released.
+
+These packages were explicitly ignored:
+- `move_base_msgs`
+
+Version of package(s) in repository `navigation_msgs`:
+
+- upstream repository: https://github.com/ros-planning/navigation_msgs
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.0.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.10`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.2`
+- vcstools version: `0.1.40`
+
+
 ## navigation_msgs (crystal) - 2.0.1-0
 
 The packages in the `navigation_msgs` repository were released into the `crystal` distro by running `/usr/local/bin/bloom-release -r crystal -t crystal navigation_msgs` on `Sat, 20 Apr 2019 00:41:36 -0000`
