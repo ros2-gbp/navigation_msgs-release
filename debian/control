@@ -1,0 +1,12 @@
+Source: ros-dashing-map-msgs
+Section: misc
+Priority: extra
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-dashing-ament-cmake, ros-dashing-ament-lint-common, ros-dashing-nav-msgs, ros-dashing-rosidl-default-generators, ros-dashing-sensor-msgs, ros-dashing-std-msgs
+Homepage: http://ros.org/wiki/map_msgs
+Standards-Version: 3.9.2
+
+Package: ros-dashing-map-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-dashing-nav-msgs, ros-dashing-rosidl-default-runtime, ros-dashing-sensor-msgs, ros-dashing-std-msgs
+Description: This package defines messages commonly used in mapping packages.
