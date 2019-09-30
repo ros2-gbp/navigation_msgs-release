@@ -1,0 +1,21 @@
+ros-eloquent-move-base-msgs (2.0.2-1bionic) bionic; urgency=high
+
+  * port move_base_msgs to ROS2 actions (#10 <https://github.com/ros-planning/navigation_msgs/issues/10>)
+  * Contributors: Steven Macenski
+
+ -- Steve Macenski <stevenmacenski@gmail.com>  Mon, 30 Sep 2019 05:00:00 -0000
+
+ros-eloquent-move-base-msgs (2.0.0-1bionic) bionic; urgency=high
+
+  * Contributors: William Woodall
+
+ -- Steve Macenski <stevenmacenski@gmail.com>  Wed, 27 Jun 2018 05:00:00 -0000
+
+ros-eloquent-move-base-msgs (1.13.0-1bionic) bionic; urgency=high
+
+  * initial release from new repository
+  * Contributors: Michael Ferguson
+
+ -- Steve Macenski <stevenmacenski@gmail.com>  Mon, 16 Mar 2015 05:00:00 -0000
+
+
