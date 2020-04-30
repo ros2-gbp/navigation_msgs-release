@@ -1,3 +1,28 @@
+## navigation_msgs (foxy) - 2.0.2-1
+
+The packages in the `navigation_msgs` repository were released into the `foxy` distro by running `/usr/bin/bloom-release --rosdistro foxy --track foxy navigation_msgs` on `Thu, 30 Apr 2020 20:45:09 -0000`
+
+These packages were released:
+- `map_msgs`
+- `move_base_msgs`
+
+Version of package(s) in repository `navigation_msgs`:
+
+- upstream repository: https://github.com/ros-planning/navigation_msgs
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `2.0.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## navigation_msgs (dashing) - 2.0.2-1
 
 The packages in the `navigation_msgs` repository were released into the `dashing` distro by running `/usr/bin/bloom-release -r dashing navigation_msgs` on `Mon, 30 Sep 2019 18:25:56 -0000`
