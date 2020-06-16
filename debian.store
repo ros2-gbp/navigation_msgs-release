@@ -1,1 +1,1 @@
-{"trim": "", "base": "6faccae", "trimbase": "", "parent": "debian/foxy/map_msgs", "previous": "9241795"}
+{"base": "6e1ac57", "parent": "debian/rolling/map_msgs", "previous": "6685ccf", "trim": "", "trimbase": ""}
