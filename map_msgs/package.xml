@@ -4,14 +4,15 @@
     schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
     <name>map_msgs</name>
-    <version>2.0.2</version>
+    <version>2.1.0</version>
     <description>
         This package defines messages commonly used in mapping packages.
     </description>
     <author>Stéphane Magnenat</author>
     <maintainer email="davidvlu@gmail.com">David V. Lu!!</maintainer>
     <maintainer email="mferguson@fetchrobotics.com">Michael Ferguson</maintainer>
-    <maintainer email="william@osrfoundation.org">William Woodall</maintainer>
+    <maintainer email="stevenmacenski@gmail.com">Steve Macenski</maintainer>
+    <maintainer email="mabel@openrobotics.org">Mabel Zhang</maintainer>
 
     <license>BSD</license>
     <url type="website">http://ros.org/wiki/map_msgs</url>
