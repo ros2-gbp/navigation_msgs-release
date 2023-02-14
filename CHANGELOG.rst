@@ -2,6 +2,11 @@
 Changelog for package map_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.2.0 (2023-02-14)
+------------------
+* Update maintainers
+* Contributors: Audrow Nash, Steve Macenski
+
 2.1.0 (2021-03-25)
 ------------------
 * update maintainers
