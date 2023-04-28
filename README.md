@@ -1,3 +1,26 @@
+## navigation_msgs (rolling) - 2.3.0-1
+
+The packages in the `navigation_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling navigation_msgs` on `Fri, 28 Apr 2023 17:19:26 -0000`
+
+The `map_msgs` package was released.
+
+Version of package(s) in repository `navigation_msgs`:
+
+- upstream repository: https://github.com/ros-planning/navigation_msgs
+- release repository: https://github.com/ros2-gbp/navigation_msgs-release.git
+- rosdistro version: `2.2.0-2`
+- old version: `2.2.0-2`
+- new version: `2.3.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## navigation_msgs (rolling) - 2.2.0-1
 
 The packages in the `navigation_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -r rolling navigation_msgs` on `Tue, 14 Feb 2023 15:49:01 -0000`
