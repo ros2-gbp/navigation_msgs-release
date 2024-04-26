@@ -2,6 +2,9 @@
 Changelog for package map_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.5.0 (2024-04-26)
+------------------
+
 2.4.1 (2024-04-16)
 ------------------
 * Update maintainer list in package.xml files
